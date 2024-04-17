@@ -13,7 +13,7 @@ Certificado:
 
 Pdf compartido por google drive
 
-<div style="padding-bottom:80%; position:relative; display:block; width: 100%">
+<div style="padding-bottom:100%; position:relative; display:block; width: 100%">
 	<iframe width="100%" height="100%" src="https://drive.google.com/file/d/1WoxHe-roAy3jw7bB7fa3QPiAunbVv0bq/preview" title="Manual" frameborder="0" style="position:absolute; top:0; left:0" allowfullscreen></iframe>
 </div>
 

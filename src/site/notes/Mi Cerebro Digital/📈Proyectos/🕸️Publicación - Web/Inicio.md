@@ -16,9 +16,9 @@ Certificado:
 
 Manual de usuario de monitor HP L6015tm
 
-<div style="padding-bottom:80%; position:relative; display:block; width: 100%">
-	<iframe width="100%" height="100%" src="https://itgstore.ro/download/manual/13104.pdf" frameborder="0" style="position:absolute; top:0; left:0"></iframe>
-</div>
+
+<embed width="100%" height="100%" src="https://itgstore.ro/download/manual/13104.pdf" frameborder="0" type="application/pdf" scrolling="auto"></embed>
+
 
 
 Ahora esto es una imagen

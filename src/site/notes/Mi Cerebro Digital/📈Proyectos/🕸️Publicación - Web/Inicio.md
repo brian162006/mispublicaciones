@@ -9,6 +9,8 @@ Certificado:
 
 
 
+[Certificado](https://drive.google.com/file/d/0Bz82Y2lTBnEILXhnZzZWb29pWEE/preview?resourcekey=0-3GG0H5RM0eYL6yymDhPXtA)
+
 Manual de usuario de monitor HP L6015tm
 
 ![[13104.pdf]]

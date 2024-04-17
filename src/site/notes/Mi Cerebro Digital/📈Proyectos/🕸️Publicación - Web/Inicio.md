@@ -5,7 +5,7 @@
 
 Certificado:
 
-<div style="padding-bottom:70%; position:relative; display:block; width: 100%">
+<div style="padding-bottom:80%; position:relative; display:block; width: 100%">
 	<iframe width="100%" height="100%" src="https://drive.google.com/file/d/0Bz82Y2lTBnEILXhnZzZWb29pWEE/preview?resourcekey=0-3GG0H5RM0eYL6yymDhPXtA" title="Certificado" frameborder="0" style="position:absolute; top:0; left:0" allowfullscreen></iframe>
 </div>
 
@@ -16,7 +16,10 @@ Certificado:
 
 Manual de usuario de monitor HP L6015tm
 
-![[13104.pdf]]
+<div style="padding-bottom:80%; position:relative; display:block; width: 100%">
+	<iframe width="100%" height="100%" src="https://itgstore.ro/download/manual/13104.pdf" frameborder="0" style="position:absolute; top:0; left:0"></iframe>
+</div>
+
 
 Ahora esto es una imagen
 

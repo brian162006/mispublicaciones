@@ -5,7 +5,10 @@
 
 Certificado:
 
-<iframe src="https://drive.google.com/file/d/0Bz82Y2lTBnEILXhnZzZWb29pWEE/preview?resourcekey=0-3GG0H5RM0eYL6yymDhPXtA" width="700" height="700"></iframe>
+<div style="padding-bottom:70%; position:relative; display:block; width: 100%">
+	<iframe width="100%" height="100%" src="https://drive.google.com/file/d/0Bz82Y2lTBnEILXhnZzZWb29pWEE/preview?resourcekey=0-3GG0H5RM0eYL6yymDhPXtA" title="Certificado" frameborder="0" style="position:absolute; top:0; left:0" allowfullscreen></iframe>
+</div>
+
 
 
 

@@ -15,4 +15,6 @@ Esto es una prueba de publicación de pdf e imagen.
 
 Ahora va ser una prueba de video.
 
-![[2024-04-16_09h32_47.mp4]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPAV1SNkdFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+

@@ -5,7 +5,7 @@
 
 Certificado:
 
-<iframe src="https://drive.google.com/file/d/0Bz82Y2lTBnEILXhnZzZWb29pWEE/view?usp=sharing&resourcekey=0-3GG0H5RM0eYL6yymDhPXtA" width="700" height="700"></iframe>
+<iframe src="https://drive.google.com/file/d/0Bz82Y2lTBnEILXhnZzZWb29pWEE/view?usp=drive_link&resourcekey=0-3GG0H5RM0eYL6yymDhPXtA" width="700" height="700"></iframe>
 
 
 

@@ -7,6 +7,7 @@
 
 | File                                                                      | Tema                                            | Ultima Modificación |
 | ------------------------------------------------------------------------- | ----------------------------------------------- | ------------------- |
+| [[Mi Cerebro Digital/📩Bandeja de Entrada/202404270008\|202404270008]] | \-                                              | 27/04/2024 00:34:39 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202404182339\|202404182339]] | Publicar Obsidian en la web                     | 27/04/2024 00:07:08 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202404260107\|202404260107]] | Crear calendario de citas con Google Calendar   | 27/04/2024 00:06:51 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202404211621\|202404211621]] | Consideraciones para publicar en Digital Garden | 27/04/2024 00:06:37 |

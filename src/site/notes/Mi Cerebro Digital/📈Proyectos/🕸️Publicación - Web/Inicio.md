@@ -7,8 +7,8 @@
 
 | File                                                                      | Tema                                                                   | Ultima Modificación |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
-| [[Mi Cerebro Digital/📩Bandeja de Entrada/202309201908\|202309201908]] | Metodología Zettelkasten                                               | 06/05/2024 15:26:54 |
-| [[Mi Cerebro Digital/📩Bandeja de Entrada/202309291604\|202309291604]] | Git                                                                    | 06/05/2024 15:25:06 |
+| [[Mi Cerebro Digital/📩Bandeja de Entrada/202309201908\|202309201908]] | Metodología Zettelkasten                                               | 06/05/2024 17:47:58 |
+| [[Mi Cerebro Digital/📩Bandeja de Entrada/202309291604\|202309291604]] | Git                                                                    | 06/05/2024 17:45:34 |
 | [[Mi Cerebro Digital/📈Proyectos/🕸️Publicación - Web/Inicio\|Inicio]] | Página de inicio                                                       | 06/05/2024 14:39:08 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202404301924\|202404301924]] | Implementar tu propio ChatGPT localmente, multiples modelos opensource | 04/05/2024 00:51:01 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202404270008\|202404270008]] | Implementar botón en tu web para donaciones (Crowsfunding)             | 27/04/2024 01:20:20 |

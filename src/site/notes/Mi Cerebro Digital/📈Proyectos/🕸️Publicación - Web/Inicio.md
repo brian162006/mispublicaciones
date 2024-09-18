@@ -7,6 +7,7 @@
 
 | File                                                                      | Tema                                                                   | Ultima Modificación |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
+| [[Mi Cerebro Digital/📩Bandeja de Entrada/202408150246\|202408150246]] | Microsoft Activation Scripts (MAS)                                     | 17/09/2024 20:47:20 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202309201908\|202309201908]] | Metodología Zettelkasten                                               | 06/05/2024 17:47:58 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202309291604\|202309291604]] | Git                                                                    | 06/05/2024 17:45:34 |
 | [[Mi Cerebro Digital/📈Proyectos/🕸️Publicación - Web/Inicio\|Inicio]] | Página de inicio                                                       | 06/05/2024 14:39:08 |

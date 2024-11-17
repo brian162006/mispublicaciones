@@ -7,6 +7,7 @@
 
 | File                                                                      | Tema                                                                   | Ultima Modificación |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
+| [[Mi Cerebro Digital/📩Bandeja de Entrada/202411171626\|202411171626]] | \-                                                                     | 17/11/2024 16:31:22 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202309201908\|202309201908]] | Metodología Zettelkasten                                               | 06/05/2024 17:47:58 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202309291604\|202309291604]] | Git                                                                    | 06/05/2024 17:45:34 |
 | [[Mi Cerebro Digital/📈Proyectos/🕸️Publicación - Web/Inicio\|Inicio]] | Página de inicio                                                       | 06/05/2024 14:39:08 |

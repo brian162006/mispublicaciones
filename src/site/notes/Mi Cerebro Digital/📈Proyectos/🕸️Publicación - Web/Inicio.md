@@ -7,7 +7,8 @@
 
 | File                                                                      | Tema                                                                   | Ultima Modificación |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
-| [[Mi Cerebro Digital/📩Bandeja de Entrada/202411171626\|202411171626]] | Restablecer Anydesk free                                               | 28/11/2024 01:08:37 |
+| [[Mi Cerebro Digital/📩Bandeja de Entrada/202506161443\|202506161443]] | Cambio de chip a dispositivo móvil                                     | 16/06/2025 15:01:32 |
+| [[Mi Cerebro Digital/📩Bandeja de Entrada/202411171626\|202411171626]] | Restablecer Anydesk free                                               | 16/01/2025 18:46:38 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202309201908\|202309201908]] | Metodología Zettelkasten                                               | 06/05/2024 17:47:58 |
 | [[Mi Cerebro Digital/📩Bandeja de Entrada/202309291604\|202309291604]] | Git                                                                    | 06/05/2024 17:45:34 |
 | [[Mi Cerebro Digital/📈Proyectos/🕸️Publicación - Web/Inicio\|Inicio]] | Página de inicio                                                       | 06/05/2024 14:39:08 |
